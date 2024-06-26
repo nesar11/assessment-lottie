@@ -4,4 +4,4 @@
 2. nodemon server
 3. Frontend lottie-manager directory as root npm install and npm start
 
-![Offline Animation Management System Image](offline-first-lottie-animation-management-system.png)
+![Offline Animation Management System Image](offline-first-lottie-animation-management-system.PNG)
